@@ -242,6 +242,14 @@ The application will open in your default browser at `http://localhost:8501`
 - All data is fetched in real-time from TMDb
 
 
+## 🙏 Acknowledgements
+
+* **TMDb** – For providing movie data and posters via their API.
+
+  > *“This product uses the TMDb API but is not endorsed or certified by TMDb.”*
+
+* **Streamlit Cloud** – For hosting and deploying the app effortlessly.
+
 ## 🤝 Contributing
 
 Contributions are welcome!
