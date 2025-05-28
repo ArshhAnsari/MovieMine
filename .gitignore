@@ -1,0 +1,15 @@
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore local env file (if you use one)
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Pickles / datasets
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
